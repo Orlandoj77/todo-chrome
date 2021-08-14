@@ -60,7 +60,7 @@ function HomePage() {
       >
         <Add />
       </Fab>
-
+      <h1 className="Chrome">E.Chrome</h1>
       <NewTaskModal
         show={showNewTaskModal}
         onClose={() => setNewTaskModal(false)}
