@@ -11,8 +11,7 @@ function Home() {
       <List tasks={tasks} />
       <Fab
         color="primary"
-        style={{ position: "absolute", bottom: "30px", right: "10px" }}
-      >
+        style={{ position: "absolute", bottom: "30px", right: "10px" }}>
         <Add />
       </Fab>
     </div>
