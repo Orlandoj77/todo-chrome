@@ -1,8 +1,12 @@
-import Home from './pages/home/index'
+import HomePage from "./pages/home";
 
 function App() {
     return ( <
-        Home / >
+        div className = "App" >
+        <
+        HomePage / >
+        <
+        /div>
     );
 }
 
