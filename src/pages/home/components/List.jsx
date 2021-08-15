@@ -1,7 +1,7 @@
 import React from "react";
 import { Box } from "@material-ui/core";
 
-// import ItemList from "./Item.List";
+import ItemList from "./Item.List";
 
 function List({ tasks, handleItemClick }) {
   return (
